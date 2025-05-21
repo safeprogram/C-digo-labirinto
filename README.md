@@ -6,3 +6,6 @@ https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python
 
 ## Aulas IME 1 a 6:
 https://www.ime.usp.br/~leliane/IAcurso2006/slides/
+
+## Start
+python maze.py maze.txt
